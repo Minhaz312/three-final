@@ -1,0 +1,68 @@
+{
+  "modelList": [
+    {
+      "id": 0,
+      "images": [
+        { "rotateOn": "front", "image": "scene1-front.PNG" },
+        { "rotateOn": "back", "image": "scene1-back.PNG" },
+        { "rotateOn": "left", "image": "scene1-left.PNG" },
+        { "rotateOn": "right", "image": "scene1-right.PNG" },
+        { "rotateOn": "top", "image": "scene1-top.PNG" },
+        { "rotateOn": "bottom", "image": "scene1-bottom.PNG" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 16.47,
+      "animate": false,
+      "filename": "scene.glb",
+      "bg": "grey"
+    },
+    {
+      "id": 1,
+      "images": [
+        { "rotateOn": "front", "image": "scene1-front.PNG" },
+        { "rotateOn": "back", "image": "scene1-back.PNG" },
+        { "rotateOn": "left", "image": "scene1-left.PNG" },
+        { "rotateOn": "right", "image": "scene1-right.PNG" },
+        { "rotateOn": "top", "image": "scene1-top.PNG" },
+        { "rotateOn": "bottom", "image": "scene1-bottom.PNG" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 9.29,
+      "animate": false,
+      "filename": "scene3.glb",
+      "bg": "grey"
+    },
+    {
+      "id": 2,
+      "images": [
+        { "rotateOn": "front", "image": "scene1-front.PNG" },
+        { "rotateOn": "back", "image": "scene1-back.PNG" },
+        { "rotateOn": "left", "image": "scene1-left.PNG" },
+        { "rotateOn": "right", "image": "scene1-right.PNG" },
+        { "rotateOn": "top", "image": "scene1-top.PNG" },
+        { "rotateOn": "bottom", "image": "scene1-bottom.PNG" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 32.8,
+      "animate": false,
+      "filename": "scene2.glb",
+      "bg": "grey"
+    },
+    {
+      "id": 3,
+      "images": [
+        { "rotateOn": "front", "image": "scene1-front.PNG" },
+        { "rotateOn": "back", "image": "scene1-back.PNG" },
+        { "rotateOn": "left", "image": "scene1-left.PNG" },
+        { "rotateOn": "right", "image": "scene1-right.PNG" },
+        { "rotateOn": "top", "image": "scene1-top.PNG" },
+        { "rotateOn": "bottom", "image": "scene1-bottom.PNG" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 0.0103515625,
+      "animate": false,
+      "filename": "scene4.gltf",
+      "bg": "grey"
+    }
+  ]
+}
