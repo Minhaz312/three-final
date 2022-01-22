@@ -1,0 +1,60 @@
+{
+  "modelList": [
+    {
+      "id": 6,
+      "images": [
+        { "image": "Fishingboat-front.PNG" },
+        { "image": "Fishingboat-back.PNG" },
+        { "image": "Fishingboat-left.PNG" },
+        { "image": "Fishingboat-right.PNG" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 4.0849609375,
+      "animate": false,
+      "filename": "Fishingboat.glb",
+      "bg": "#8e8a91"
+    },
+    {
+      "id": 7,
+      "images": [
+        { "image": "Estinguisher_01_360-front.png" },
+        { "image": "Estinguisher_01_360-back.png" },
+        { "image": "Estinguisher_01_360-left.png" },
+        { "image": "Estinguisher_01_360-right.png" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 238.38671875,
+      "animate": false,
+      "filename": "Estinguisher_01_360.glb",
+      "bg": "#dad3de"
+    },
+    {
+      "id": 8,
+      "images": [
+        { "image": "FisherW-front.PNG" },
+        { "image": "FisherW-back.PNG" },
+        { "image": "FisherW-left.PNG" },
+        { "image": "FisherW-right.PNG" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 7379.66015625,
+      "animate": false,
+      "filename": "FisherW_gltf.glb",
+      "bg": "#8194b4"
+    },
+    {
+      "id": 9,
+      "images": [
+        { "image": "Tugboat_03-front.PNG" },
+        { "image": "Tugboat_03-back.PNG" },
+        { "image": "Tugboat_03-left.PNG" },
+        { "image": "Tugboat_03-right.PNG" }
+      ],
+      "defaultViewAngle": "right",
+      "filesize": 5159.41796875,
+      "animate": false,
+      "filename": "Tugboat_03.glb",
+      "bg": "#d9d2db"
+    }
+  ]
+}
